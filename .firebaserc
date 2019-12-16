@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-123d": {
+      "hosting": {
+        "angular-firebase": [
+          "test-123d"
+        ]
+      }
+    }
+  }
+}
